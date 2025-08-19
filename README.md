@@ -1,17 +1,17 @@
 # Halo-Cicekcilik-Cicekci-Dukkanina-websitesi-
 Çiçekçi Dükkanına isteği üzerine istediği gibi bir web sayfası yapılmıştır.
-Halo Çiçekçilik Web Sayfası
 
-Bu proje, Halo Çiçekçilik işletmesi için müşteri talebi doğrultusunda hazırlanmış bir tanıtım web sayfasıdır.
+
+-Bu proje, Halo Çiçekçilik işletmesi için müşteri talebi doğrultusunda hazırlanmış bir tanıtım web sayfasıdır.
 Tasarım ve içerik, müşterinin belirttiği istekler çerçevesinde geliştirilmiş olup, herhangi bir ekleme veya çıkarma yapılmadan uygulanmıştır.
 
-Proje İçeriği:
+#Proje İçeriği:
 
 Çıcekcı.html → Web sayfasının temel HTML yapısı.
 
 cıcekcı.css → Sayfaya özel tasarımın uygulandığı stil dosyası.
 
-Kullanılan Teknolojiler:
+#Kullanılan Teknolojiler:
 
 HTML5 – Sayfa yapısı.
 
@@ -21,7 +21,7 @@ Bootstrap 5 – Responsive (mobil uyumlu) yapı için.
 
 Google Fonts (Poppins) – Tipografi için.
 
-Sayfa Bölümleri:
+#Sayfa Bölümleri:
 
 Navbar → Halo Çiçekçilik başlığı ile sabit menü.
 
@@ -35,7 +35,7 @@ Galeri → İşletmeye ait görsellerin slayt gösterisi.
 
 Footer → Telif bilgileri ve kısa mesaj.
 
-Özellikler:
+#Özellikler:
 
 Mobil uyumlu ve modern tasarım.
 
